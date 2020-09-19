@@ -879,14 +879,14 @@ const rebuses = [
     hint: 'A passage through space creating a shortcut through time and space'
   },
   {
-    symbols: ['🌎', 'OF', '⚔', 'CRAFT'],
-    words: ['World', 'of', 'Warcraft'],
-    hint: ['Famous Blizzard online game']
+    symbols: ['🌞', '+', '🔥'],
+    words: ['sunburn'],
+    hint: ['What happens if you stay under the sun too long?']
   },
   {
-    symbols: ['🍯', '+', '🐝'],
-    words: ['honeybee'],
-    hint: ['An insect that makes a sweet treat.']
+    symbols: ['🏃‍', '+', '🌲🌲🌲', '+', '🏃‍'],
+    words: ['runforrestrun'],
+    hint: ['Line from the movie Forrest Gump']
   }
 ];
 
